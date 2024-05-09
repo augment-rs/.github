@@ -16,12 +16,12 @@
 ### Usable Utilities
 
 1. **augment-wallman** - Manages wallpaper for Hyprland.
+2. **augment-vol-brt-man** - Manages volume and brightness for Hyprland.
 
 ### Non-Usable or Planned Utilities
 
 1. **augment-topbar** - A status bar for Hyprland.
-2. **augment-vol-brt-man** - Manages volume and brightness for Hyprland.
-3. **augment-power** - Power off screen for Hyprland.
+2. **augment-power** - Power off screen for Hyprland.
 
 ## License
 
