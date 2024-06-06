@@ -2,7 +2,7 @@
     <img width="256" alt="logo" src="logo.png">
 </p>
 
-# augment-rs
+# Augment
 
 **Augments Hyprland without much effort**
 
